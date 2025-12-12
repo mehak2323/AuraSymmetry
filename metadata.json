@@ -1,0 +1,7 @@
+{
+  "name": "Aura Symmetry",
+  "description": "Analyze your facial structure against the Golden Ratio and discover personalized exercises to enhance symmetry naturally.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
